@@ -29,7 +29,7 @@ Numbers
 
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CityDistance.hs) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Numbers/two_city_distance.rb) [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/citydistance.py)
 
-**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CCValidator.hs)
+**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum). [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/CCValidator.hs)[[stupidgrass (Python)]](https://github.com/stupidgrass/Projects/blob/master/Numbers/credit_card_validator_xwz.py)
 
 **Tax Calculator** - Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax. [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Numbers/TaxCalculator.hs)
 
@@ -50,7 +50,7 @@ Classic Algorithms
 
 **Closest pair problem** - The closest pair of points problem or closest pair problem is a problem of computational geometry: given *n* points in metric space, find a pair of points with the smallest distance between them. [[dabillox (Python)]](https://github.com/dabillox/pyprojects/blob/master/closestpairproblem.py)
 
-**Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so). [[swapagarwal (Python)]](https://github.com/swapagarwal/Projects/blob/master/Classic%20Algorithms/Sieve%20of%20Eratosthenes.py)
+**Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so). [[swapagarwal (Python)]](https://github.com/swapagarwal/Projects/blob/master/Classic%20Algorithms/Sieve%20of%20Eratosthenes.py) [[quitrk (JavaScript)]](https://github.com/quitrk/LearningJS/blob/master/Classic%20Algorithms/03.%20Sieve%20of%20Eratosthenes.js)
 
 Graphs
 ---------
@@ -71,7 +71,7 @@ Data Structures
 Text
 ---------
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Reverse.hs)[[ross-t (Python)]](https://github.com/ross-t/stringgnirts/blob/master/reverser.py) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/reverse_a_string.rb) [[jotaki (C)]](https://github.com/jotaki/mini-projects/blob/master/strings/reverse.c) [[taycaldwell (Java)]](https://github.com/taycaldwell/Projects/blob/master/Text/reverse_string.java) [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Text/reverse.go)
+**Reverse a String** - Enter a string and the program will reverse it and print it out. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/reverse_string.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/ReverseString.java) [[tel (Haskell)]](https://github.com/tel/Projects/blob/master/Text/Reverse.hs)[[ross-t (Python)]](https://github.com/ross-t/stringgnirts/blob/master/reverser.py) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/reverse_a_string.rb) [[jotaki (C)]](https://github.com/jotaki/mini-projects/blob/master/strings/reverse.c) [[taycaldwell (Java)]](https://github.com/taycaldwell/Projects/blob/master/Text/reverse_string.java) [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Text/reverse.go) [[quitrk (JavaScript)]](https://github.com/quitrk/LearningJS/blob/master/Text/00.%20Reverse%20a%20String.js)
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/text_projects/string_editing.py) [[JLukeC (Python)]](https://github.com/jLukeC/mega-project-list/blob/master/python/pig_latin.py) [[JLukeC (Java)]](https://github.com/jLukeC/mega-project-list/blob/master/java/src/projects/PigLatin.java) [[petehuang (Ruby)]](https://github.com/petehuang/Projects/blob/master/Text/pig_latin.rb) [[jotaki (C)]](https://github.com/jotaki/mini-projects/blob/master/strings/piglatin.c) [[taycaldwell (Java)]](https://github.com/taycaldwell/Projects/blob/master/Text/PigLatin.java) [[anggiaj (Go)]](https://github.com/anggiaj/Projects/blob/master/Text/piglatin.go)
 
@@ -83,7 +83,7 @@ Text
 
 **Text Editor** - Notepad style application that can open, edit, and save text documents. *Optional: Add syntax highlighting and other features.* [[JLukeC (Python)]](https://github.com/jLukeC/advanced-text-editor) [[mouradmourafiq (c++/QT)]] (https://github.com/mouradmourafiq/mnotepad)
 
-**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them.
+**RSS Feed Creator** - Given a link to RSS/Atom Feed, get all posts and display them. [[sriniavireddy (python)]] (https://github.com/sriniavireddy/scripts-and-solutions/tree/master/Text/RSSfeedparser)
 
 **Post it Notes Program** - A program where you can add text reminders and post them. *Optional: You can have the program also add popup reminders.*
 
@@ -121,7 +121,7 @@ Networking
 Classes
 ---------
 
-**Product Inventory Project** - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an *inventory* class which keeps track of various products and can sum up the inventory value. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/class_projects/product_inventory/product_inventory.py) [[Goldsmith (Ruby)]](https://github.com/goldsmith/ruby-projects/blob/master/Classes/inventory.rb)
+**Product Inventory Project** - Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an *inventory* class which keeps track of various products and can sum up the inventory value. [[Drhealsgood (Python)]](https://github.com/Drhealsgood/miniprojects/blob/master/class_projects/product_inventory/product_inventory.py) [[Goldsmith (Ruby)]](https://github.com/goldsmith/ruby-projects/blob/master/Classes/inventory.rb) [[quitrk (JavaScript)]](https://github.com/quitrk/LearningJS/blob/master/Classes/00.%20Product%20Inventary%20Project.js)
 
 **Airline / Hotel Reservation System** - Create a reservation system which books airline seats or hotel rooms. It charges various rates for particular sections of the plane or hotel. Example, first class is going to cost more than coach. Hotel rooms have penthouse suites which cost more. Keep track of when rooms will be available and can be scheduled.
 
